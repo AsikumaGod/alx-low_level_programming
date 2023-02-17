@@ -1,4 +1,4 @@
-#include <sdio.h>
+#include <stdio.h>
 /**
  * main - print numbers from 0 to 10
  *	followed by a new line
