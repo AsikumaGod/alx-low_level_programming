@@ -5,7 +5,7 @@
  *@c: character to be checked
  *
  * Return: 1 for alpha, 0 for non-alpha
- */i
+ */
 int _isalpha(int c)
 {
 	if ((c >= 'a' && c <= 'z') ||
