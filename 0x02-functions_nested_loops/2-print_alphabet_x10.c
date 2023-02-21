@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - print 10x of the lowercase alphabet,
+ * print_alphabet_x10 - print 10x of the lowercase alphabet,
  *	followed by a new line
  *
  * Return: Always zero
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	int repeat = 0;
 	char myalpha;
